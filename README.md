@@ -1,12 +1,12 @@
-*### Hi there, I'm Dipshan Adhikari 👋
+### Hi there, I'm Dipshan Adhikari 👋
 
-## *I'm a Self-taught Web Developer !!
+## I'm an aspiring  Web Developer !!
 
-- 🔭 I’m currently working on Full Stack Web designing projects.
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Vanilla JavaScript projects.
+- 🌱 I’m currently learning JavaScripting
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with Machine learning and AI
-- ⚡ Fun fact: I am 14 yeasr old
+- 🤔 I’m looking for help with backend web deveopment
+- ⚡ Fun fact: I am 14 years old
 - 🎸 Would love: To know how to play guitar
 
 
