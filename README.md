@@ -1,6 +1,6 @@
 ### Hi there, I'm Dipshan Adhikari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-a Passionate Web developer | learner | tech-geek | Student from Nepal.
-![](https://visitor-badge.glitch.me/badge?page_id=dipshanadhikari)
+a Passionate Web developer | learner | tech-geek | Student from Nepal   
+ ![](https://visitor-badge.glitch.me/badge?page_id=dipshanadhikari)
 
 
 ## I'm an aspiring  Web Developer !!
@@ -13,7 +13,7 @@ a Passionate Web developer | learner | tech-geek | Student from Nepal.
 
 ### Connect with me:
 <a target='_blank' href="https://dipshanadhikari.xyz">
-<img align="left" alt="Dipshan's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />
+<img align="left" alt="Dipshan's website" width="22px" src="https://www.jsdelivr.com/package/npm/@dcp-ui/icons.globe" />
 <a/>
 <a target='_blank' href="https://facebook.com/dipshan.adhikari.1234">
 <img align="left" alt="Dipshan Adhikari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
