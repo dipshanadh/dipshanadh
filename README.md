@@ -40,3 +40,4 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=highcontrast&show_icons=true" />
 
 </details>
+![](https://visitor-badge.glitch.me/badge?page_id=dipshanadhikari)
