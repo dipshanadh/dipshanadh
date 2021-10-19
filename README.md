@@ -11,8 +11,8 @@
 ### Connect with me:
 
 <img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<a href="https://dipshanadhikari.xyz">
-<a href="https://facebook.com/dipshan.adhikari.1234">
+<a target='_blank' href="https://dipshanadhikari.xyz">
+<a target='_blank' href="https://facebook.com/dipshan.adhikari.1234">
 <img align="left" alt="Dipshan Adhikari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="#">
