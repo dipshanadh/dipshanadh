@@ -13,10 +13,10 @@ a Passionate Web developer | learner | tech-geek | Student from Nepal.
 
 ### Connect with me:
 <a target='_blank' href="https://dipshanadhikari.xyz">
-<img align="left" alt="My website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />
-</a>
+<img align="left" alt="Dipshan's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />
+<a/>
 <a target='_blank' href="https://facebook.com/dipshan.adhikari.1234">
-<img align="left" alt="Dipshan Adhikari | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svghttps://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="Dipshan Adhikari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="#">
 <img align="left" alt="Dipshan Adhikari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
