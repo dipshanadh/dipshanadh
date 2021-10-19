@@ -12,8 +12,8 @@
 
 <img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <a href="https://dipshanadhikari.xyz">
-<a href="#">
-<img align="left" alt="Dipshan Adhikari |Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://facebook.com/dipshan.adhikari.1234">
+<img align="left" alt="Dipshan Adhikari | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="#">
 <img align="left" alt="Dipshan Adhikari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
