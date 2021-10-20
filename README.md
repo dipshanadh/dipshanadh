@@ -7,6 +7,7 @@ a Passionate Web developer | learner | tech-geek | Student from Nepal
 
 - 🔭 I’m currently working on some Web development projects.
 - 🌱 I’m currently learning JavaScript
+- 📖 I'm reading Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke
 - 🤔 I’m looking for help with backend web deveopment
 - 🎸 Would love: To know how to play guitar
 
