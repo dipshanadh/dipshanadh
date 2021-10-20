@@ -1,6 +1,9 @@
 ### Hi there, I'm Dipshan Adhikari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 a Passionate Web developer | learner | tech-geek | Student from Nepal   
 
+<br />
+
+ ![](https://visitor-badge.glitch.me/badge?page_id=dipshanadhikari)
 
 ## I'm an aspiring  Web Developer !!
 
@@ -41,6 +44,3 @@ a Passionate Web developer | learner | tech-geek | Student from Nepal
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadhikari)
 
 </details>
-<br />
-
- ![](https://visitor-badge.glitch.me/badge?page_id=dipshanadhikari)
