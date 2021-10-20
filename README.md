@@ -37,5 +37,6 @@ a Passionate Web developer | learner | tech-geek | Student from Nepal
 ### My GitHub Status
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=highcontrast&show_icons=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari)" />
 
 </details>
