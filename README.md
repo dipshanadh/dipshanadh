@@ -39,6 +39,6 @@ a Passionate Web developer | learner | tech-geek | Student from Nepal
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=highcontrast&show_icons=true" />
 <br />
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadhikari)](https://github.com/dipshanadhikari/github-readme-stats)
 
 </details>
