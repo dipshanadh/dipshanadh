@@ -37,7 +37,7 @@ a Passionate Web developer | learner | tech-geek | Student from Nepal
 <br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadhikari)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadhikari&theme=highcontrast&show_icons=true")
 <br />
 
 ### My GitHub Status
