@@ -1,5 +1,5 @@
 ### Hi there, I'm Dipshan Adhikari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-a Passionate Web developer | learner | tech-geek | Student from Nepal   
+a Passionate web developer | programmer | learner | tech-enthusiast | student from Nepal   
 
  ![](https://visitor-badge.glitch.me/badge?page_id=dipshanadhikari)
 
@@ -36,11 +36,11 @@ a Passionate Web developer | learner | tech-geek | Student from Nepal
 <br />
 <br />
 
-
+### Languages I use the most :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadhikari&theme=highcontrast&show_icons=true")
 <br />
 
-### My GitHub Status
+### My GitHub Status :
 <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=highcontrast&show_icons=true" />
 
 
