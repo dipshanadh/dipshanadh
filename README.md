@@ -5,11 +5,12 @@ a Passionate Web developer | learner | tech-geek | Student from Nepal
 
 ## I'm an aspiring  Web Developer !!
 
-- 🔭 I’m currently working on some Web development projects.
+- 🔭 I’m currently working on some Web development projects for my portfolio
 - 🌱 I’m currently learning JavaScript
 - 📖 I'm reading Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke
 - 🤔 I’m looking for help with backend web deveopment
 - 🎸 Would love: To know how to play guitar
+- ⚡ Fun fact I started programming because I was bored but now I am highly interested in it
 
 
 ### Connect with me:
