@@ -19,7 +19,7 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 <a target='_blank' href="https://facebook.com/dipshan.adhikari.1234">
 <img align="left" alt="Dipshan Adhikari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="www.linkedin.com/in/dipshanadhikari">
+<a target="_blank" href="https://www.linkedin.com/in/dipshanadhikari">
 <img align="left" alt="Dipshan Adhikari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="#">
