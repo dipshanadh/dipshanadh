@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 ### Hi there, I'm Dipshan Adhikari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 a passionate frontend web developer | programmer | tech-enthusiast | learner | student from Nepal   
@@ -49,3 +49,4 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 
 
 </details>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
