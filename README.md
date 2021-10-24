@@ -19,13 +19,12 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 <a target='_blank' href="https://facebook.com/dipshan.adhikari.1234">
 <img align="left" alt="Dipshan Adhikari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="#">
+<a href="www.linkedin.com/in/dipshanadhikari">
 <img align="left" alt="Dipshan Adhikari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="#">
 <img align="left" alt="Dipshan Adhikari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </a>
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dipshan-adhikari-447219224" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/dipshan-adhikari-447219224?trk=profile-badge">Dipshan Adhikari</a></div>
               
 <br />
 
@@ -46,7 +45,4 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 ### My GitHub Status :
 <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=highcontrast&show_icons=true" />
 
-
-
 </details>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
