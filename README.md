@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ### Hi there, I'm Dipshan Adhikari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 a passionate frontend web developer | programmer | tech-enthusiast | learner | student from Nepal   
 
@@ -23,7 +25,8 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 <a href="#">
 <img align="left" alt="Dipshan Adhikari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </a>
- 
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dipshan-adhikari-447219224" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/dipshan-adhikari-447219224?trk=profile-badge">Dipshan Adhikari</a></div>
+              
 <br />
 
 ### Languages and Tools:
