@@ -39,15 +39,14 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 <br />
 
 ### Languages I use the most :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadhikari&theme=dracula&show_icons=true")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadhikari&theme=radical&show_icons=true")
 <br />
 
 ### My GitHub Status :
-<img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=dracula&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=radical&show_icons=true" />
 
 ### Some of my projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=facebook-loginpage-clone&theme=dracula&show_icons=true" )](https://dipshanadhikari.xyz/projects/facebook-loginpage-clone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=discord-loginpage-clone&theme=dracula&show_icons=true" )](https://dipshanadhikari.xyz/projects/discord-loginpage-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=facebook-loginpage-clone&theme=radicalcula&show_icons=true" )](https://dipshanadhikari.xyz/projects/facebook-loginpage-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=discord-loginpage-clone&theme=radical&show_icons=true" )](https://dipshanadhikari.xyz/projects/discord-loginpage-clone)
 
 </details>
