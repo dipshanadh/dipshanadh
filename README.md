@@ -47,4 +47,7 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 ### My GitHub Status :
 <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=highcontrast&show_icons=true" />
 
+### Some of my projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=facebook-loginpage-clone)](https://dipshanadhikari.xyz/projects/facebook-loginpage-clone)
+
 </details>
