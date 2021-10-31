@@ -1,5 +1,3 @@
-
-
 ### Hi there, I'm Dipshan Adhikari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 a passionate frontend web developer | programmer | tech-enthusiast | learner | student from Nepal   
 
@@ -22,8 +20,8 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 <a target="_blank" href="https://www.linkedin.com/in/dipshanadhikari">
 <img align="left" alt="Dipshan Adhikari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="#">
-<img align="left" alt="Dipshan Adhikari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://dipshanadhikari.xyz/">
+<img align="left" alt="Dipshan Adhikari | Portfolio website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />
  </a>
               
 <br />
@@ -49,6 +47,7 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 
 ### Some of my projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=facebook-loginpage-clone&theme=highcontrast&show_icons=true" )](https://dipshanadhikari.xyz/projects/facebook-loginpage-clone)
+<br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=discord-loginpage-clone&theme=highcontrast&show_icons=true" )](https://dipshanadhikari.xyz/projects/discord-loginpage-clone)
 
 </details>
