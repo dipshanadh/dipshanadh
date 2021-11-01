@@ -10,7 +10,6 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 - 📖 I'm reading Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke
 - 🤔 I’m looking for help with backend web deveopment
 - 🎸 Would love: To know how to play guitar
-- ⚡ Fun fact: I started programming because I was bored but now I am highly interested in it
 
 
 ### Connect with me:
