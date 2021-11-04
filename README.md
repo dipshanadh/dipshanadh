@@ -1,5 +1,5 @@
 ### Hi there, I'm Dipshan Adhikari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-a passionate frontend web developer | programmer | tech-enthusiast | learner | student from Nepal   
+a passionate frontend Web developer | programmer | tech-enthusiast | learner | student from Nepal   
 
  ![](https://visitor-badge.glitch.me/badge?page_id=dipshanadhikari)
 
@@ -8,6 +8,7 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 - 🔭 I’m currently doing challenges on Frontend Mentor
 - 🌱 I’m currently learning full stack web development
 - 📖 I'm reading Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke
+- 👯 I’m looking to collaborate with other Web developer
 - 🤔 I’m looking for help with backend web deveopment
 - 🎸 Would love: To know how to play guitar
 
