@@ -5,8 +5,8 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 
 ## I'm an aspiring  Web Developer !!
 
-- 🔭 I’m currently working on some Web development projects for my portfolio
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently doing challenges on Frontend Mentor
+- 🌱 I’m currently learning full stack web development
 - 📖 I'm reading Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke
 - 🤔 I’m looking for help with backend web deveopment
 - 🎸 Would love: To know how to play guitar
@@ -30,9 +30,10 @@ a passionate frontend web developer | programmer | tech-enthusiast | learner | s
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
- <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" />
 
 <br />
 <br />
