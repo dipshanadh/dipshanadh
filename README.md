@@ -8,7 +8,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 - 🔭 I’m currently doing challenges on Frontend Mentor
 - 🌱 I’m currently learning full stack web development
 - 📖 I'm reading Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke
-- 👯 I’m looking to collaborate with other Web developer
+- 👯 I’m looking to collaborate with other Web developers
 - 🤔 I’m looking for help with backend web deveopment
 - 🎸 Would love: To know how to play guitar
 
