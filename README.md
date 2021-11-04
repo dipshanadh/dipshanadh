@@ -5,24 +5,29 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 ## I'm an aspiring  Web Developer !!
 
-- 🔭 I’m currently doing challenges on Frontend Mentor
-- 🌱 I’m currently learning full stack web development
-- 📖 I'm reading Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke
-- 👯 I’m looking to collaborate with other Web developers
-- 🤔 I’m looking for help with backend web deveopment
-- 🎸 Would love: To know how to play guitar
+- 🔭 I’m currently doing challenges on **Frontend Mentor**
+- 🌱 I’m currently learning **full stack web development**
+- 📖 I'm reading **Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke**
+- 👯 I’m looking to collaborate with **other Web developers**
+- 🤔 I’m looking for help with **backend web deveopment**
+- 🎸 Would love: To know how to **play guitar**
+- 👨‍💻 All of my projects are available at **[https://dipshanadhikari.xyz/projects/](https://dipshanadhikari.xyz/projects/)**
+- 💬 Ask me about **HTML and CSS**
 
 
 ### Connect with me:
-<a target='_blank' href="https://facebook.com/dipshan.adhikari.1234">
-<img align="left" alt="Dipshan Adhikari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/dipshanadhikari">
-<img align="left" alt="Dipshan Adhikari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<!-- <a href="https://dipshanadhikari.xyz/">
-<img align="left" alt="Dipshan Adhikari | Portfolio website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />
- </a> -->
+<p align="left">
+<a href="https://codepen.io/some" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="some" height="30" width="40" /></a>
+<a href="https://twitter.com/someone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="someone" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipshanadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipshanadhikari" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/some" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="some" height="30" width="40" /></a>
+<a href="https://fb.com/dipshan.adhikari.1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipshan.adhikari.1234" height="30" width="40" /></a>
+<a href="https://instagram.com/someone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="someone" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/some" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="some" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/someone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="someone" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@someone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@someone" height="30" width="40" /></a>
+<a href="https://discord.gg/yAcbxMgmrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yAcbxMgmrd" height="30" width="40" /></a>
+</p>
               
 <br />
 
