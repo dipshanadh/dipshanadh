@@ -11,8 +11,8 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 - 👯 I’m looking to collaborate with **other Web developers**
 - 🤔 I’m looking for help with **backend web deveopment**
 - 🎸 Would love: To know how to **play guitar**
-<!-- - 👨‍💻 All of my projects are available at **[https://dipshanadhikari.xyz/projects/](https://dipshanadhikari.xyz/projects/)**
-- 💬 Ask me about **HTML and CSS** -->
+- 💬 Ask me about **HTML and CSS**
+<!-- - 👨‍💻 All of my projects are available at **[https://dipshanadhikari.xyz/projects/](https://dipshanadhikari.xyz/projects/)** -->
 
 ### Connect with me:
 
