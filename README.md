@@ -16,7 +16,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 ### Connect with me:
 
-
+<p>
 <!-- <a href="https://codepen.io/some" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="some" height="30" width="40" /></a> -->
 <!-- <a href="https://twitter.com/dipshanadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipshan adhikari" height="30" width="40" /></a> -->
 <a href="https://fb.com/dipshan.adhikari.1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipshan.adhikari.1234" height="30" width="40" /></a>
@@ -25,6 +25,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 <!-- <a href="https://codeforces.com/profile/dipshanadhikari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dipshanadhikari" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/dipshanadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipshanadhikari" height="30" width="40" /></a> -->
 <a href="https://www.hackerearth.com/@dipshanadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dipshanadhikari" height="30" width="40" /></a> 
+</p>
 
 ### Languages and Tools:
 
