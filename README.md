@@ -24,7 +24,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 <a href="https://linkedin.com/in/dipshanadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipshanadhikari" height="30" width="40" /></a>
 <!-- <a href="https://codeforces.com/profile/dipshanadhikari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dipshanadhikari" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/dipshanadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipshanadhikari" height="30" width="40" /></a> -->
-<a href="https://www.hackerearth.com/@dipshanadhikari" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@dipshanadhikari" height="30" width="40" /></a> 
+<a href="https://www.hackerearth.com/@dipshanadhikari" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@dipshanadhikari" height="30" width="30" /></a> 
 </p>
 
 ### Languages and Tools:
