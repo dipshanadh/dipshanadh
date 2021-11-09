@@ -55,8 +55,8 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=facebook-loginpage-clone&theme=radical&show_icons=true" )](https://dipshanadhikari.xyz/projects/facebook-loginpage-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=discord-loginpage-clone&theme=radical&show_icons=true" )](https://dipshanadhikari.xyz/projects/discord-loginpage-clone) -->
 
-###
+<!-- ###
 <p>
  <a href="https://www.buymeacoffee.com/dipshanadhikari"> 
  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dipshanadhikari" /></a>
-</p>
+</p> -->
