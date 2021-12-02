@@ -59,7 +59,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 ---
 
 <details>
- <summary>Github stats: </summary>
+ <summary>### Github stats: </summary>
  <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=radical&show_icons=true" />
 </details>
 
