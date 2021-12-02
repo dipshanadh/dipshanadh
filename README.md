@@ -2,6 +2,8 @@
 a passionate frontend Web developer | programmer | tech-enthusiast | learner | student from Nepal   
 
  ![](https://visitor-badge.glitch.me/badge?page_id=dipshanadhikari)
+ 
+ ---
 
 ## I'm an aspiring  Web Developer !!
 
@@ -13,6 +15,8 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 - 🎸 Would love: To know how to **play guitar**
 - 💬 Ask me about **HTML and CSS**
 <!-- - 👨‍💻 All of my projects are available at **[https://dipshanadhikari.xyz/projects/](https://dipshanadhikari.xyz/projects/)** -->
+
+---
 
 ### Connect with me:
 
@@ -26,6 +30,8 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 <a href="https://www.hackerearth.com/@dipshanadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dipshanadhikari" height="30" width="40" /></a> 
 <a href="https://codepen.io/dipshanadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dipshanadhikari" height="30" width="40" /></a>
 </p>
+
+---
 
 ### Languages and Tools:
 
@@ -43,13 +49,19 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
  </p>
+ 
+ ---
 
 ### Languages I use the most :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadhikari&theme=radical&show_icons=true")
 <br />
 
-### My GitHub Status :
-<img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=radical&show_icons=true" />
+---
+
+<details>
+ <summary>Github stats: </summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=radical&show_icons=true" />
+</details>
 
 <!-- ### Some of my projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=facebook-loginpage-clone&theme=radical&show_icons=true" )](https://dipshanadhikari.xyz/projects/facebook-loginpage-clone)
