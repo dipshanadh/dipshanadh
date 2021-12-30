@@ -51,14 +51,14 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
  ---
 
 ### Languages I use the most :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadhikari&theme=radical&show_icons=true")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadh&theme=radical&show_icons=true")
 <br />
 
 ---
 
 <details>
  <summary>Github stats:</summary>
- <img src="https://github-readme-stats.vercel.app/api?username=dipshanadhikari&theme=radical&show_icons=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=dipshanadh&theme=radical&show_icons=true" />
 </details>
 
 <!-- ### Some of my projects:
