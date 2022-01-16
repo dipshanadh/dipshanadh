@@ -64,7 +64,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 ### Some of my projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanilllajs-todo-lister&theme=radical&show_icons=true" )](https://dipshanadhikari.xyz/projects/facebook-loginpage-clone)
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadhikari&repo=vanillajs-year-facts-app&theme=radical&show_icons=true" )](https://dipshanadhikari.xyz/projects/discord-loginpage-clone) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanillajs-year-facts-app&theme=radical&show_icons=true" )](https://dipshanadhikari.xyz/projects/discord-loginpage-clone) -->
 
 <!-- ###
 <p>
