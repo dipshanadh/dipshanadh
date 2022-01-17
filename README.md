@@ -62,7 +62,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 </details>
 
 ### Some of my projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanilla-javascript-projects&theme=radical&show_icons=true" )](https://dipshanadhikari.xyz/projects/facebook-loginpage-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanilla-javascript-projects&theme=radical&show_icons=true" )](https://github.com/dipshanadh/vanilla-javascript-projects)
 
 <!-- ###
 <p>
