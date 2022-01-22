@@ -56,13 +56,16 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 ---
 
+### My projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanilla-javascript-projects&theme=radical&show_icons=true" )](https://github.com/dipshanadh/vanilla-javascript-projects)
+
+---
+
 <details>
  <summary>Github stats:</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=dipshanadh&theme=radical&show_icons=true" />
 </details>
 
-### Some of my projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanilla-javascript-projects&theme=radical&show_icons=true" )](https://github.com/dipshanadh/vanilla-javascript-projects)
 
 <!-- ###
 <p>
