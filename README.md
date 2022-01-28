@@ -5,7 +5,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 ## I'm an aspiring  Web Developer !!
 
-- 🔭 I’m currently making Vanilla JavaScript projects <!-- challenges on **Frontend Mentor** -->
+- 🔭 I’m currently making **Vanilla JavaScript projects** <!-- challenges on **Frontend Mentor** -->
 - 🌱 I’m currently learning **full stack web development**
 - 📖 I'm reading **Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke**
 - 👯 I’m looking to collaborate with **other Web developers**
