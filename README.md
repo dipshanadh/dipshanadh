@@ -5,13 +5,13 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 ## I'm an aspiring  Web Developer !!
 
-- 🔭 I’m currently making **Vanilla JavaScript projects** <!-- challenges on **Frontend Mentor** -->
-- 🌱 I’m currently learning **full stack web development**
+- 🔭 I’m currently learning **React.js**
+- 🌱 I’m currently learning **front-end web development**
 - 📖 I'm reading **Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke**
 - 👯 I’m looking to collaborate with **other Web developers**
-- 🤔 I’m looking for help with **backend web deveopment**
+- 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML, CSS and JavaScript**
 <!-- - 👨‍💻 All of my projects are available at **[https://dipshanadhikari.xyz/projects/](https://dipshanadhikari.xyz/projects/)** -->
 
 ---
@@ -65,10 +65,3 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
  <summary>Github stats:</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=dipshanadh&theme=radical&show_icons=true" />
 </details>
-
-
-<!-- ###
-<p>
- <a href="https://www.buymeacoffee.com/dipshanadhikari"> 
- <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dipshanadhikari" /></a>
-</p> -->
