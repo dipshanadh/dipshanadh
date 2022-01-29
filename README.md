@@ -7,7 +7,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 - 🔭 I’m currently learning **React.js**
 - 🌱 I’m currently learning **front-end web development**
-- 📖 I'm reading **Eloquent JavaScript: A Modern Introduction to Programming, by Marijn Haverbeke**
+- 📖 I'm reading **How To Code in React.js, by Joe Morgan**
 - 👯 I’m looking to collaborate with **other Web developers**
 - 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
