@@ -5,8 +5,8 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 ## I'm an aspiring  Web Developer !!
 
-- 🌱 I’m currently learning **React.js**
-- 🔭 I’m currently exploring **front-end web development**
+- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m currently exploring **web development**
 - 👯 I’m looking to collaborate with **other Web developers**
 - 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
@@ -57,7 +57,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 ---
 
 ### My projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanilla-javascript-projects&theme=radical&show_icons=true" )](https://github.com/dipshanadh/vanilla-javascript-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=mktechsolutions&theme=radical&show_icons=true" )](https://github.com/dipshanadh/mktechsolutions)
 
 ---
 
