@@ -58,7 +58,7 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 ### My projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=node-recipe-app&theme=radical&show_icons=true" )](https://github.com/dipshanadh/node-recipe-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=mktechsolutions&theme=radical&show_icons=true" )](https://github.com/dipshanadh/mktechsolutions)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=mktechsolutions&theme=radical&show_icons=true" )](https://github.com/dipshanadh/mktechsolutions) -->
 
 ---
 
