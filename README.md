@@ -7,13 +7,13 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 ## I'm an aspiring  Web Developer !!
 
-- 🌱 I’m currently learning **MERN stack**
-- 🔭 I’m currently exploring **Node and Express**
+- 🌱 I’m currently learning **Vue.js**
+- 🔭 I’m currently exploring **MEVN stack**
 - 👯 I’m looking to collaborate with **other Web developers**
 - 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
 - 💬 Ask me about **HTML, CSS and JavaScript**
-- 📖 I'm reading **How To Code in React.js, by Joe Morgan**
+- 📖 I'm reading **Vue.js 3 Cookbook**
 <!-- - 👨‍💻 All of my projects are available at **[https://dipshanadhikari.xyz/projects/](https://dipshanadhikari.xyz/projects/)** -->
 
 ---
