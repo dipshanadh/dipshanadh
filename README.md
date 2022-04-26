@@ -1,5 +1,5 @@
 ### Hi there, I'm Dipshan Adhikari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-a passionate frontend Web developer | programmer | tech-enthusiast | learner | student from Nepal   
+a passionate Web developer | programmer | tech-enthusiast | learner | student from Nepal   
 
  ---
 
@@ -7,13 +7,13 @@ a passionate frontend Web developer | programmer | tech-enthusiast | learner | s
 
 ## I'm an aspiring  Web Developer !!
 
-- 🌱 I’m currently learning **Vue.js**
-- 🔭 I’m currently exploring **MEVN stack**
+<!-- - 🌱 I’m currently learning **Vue.js** -->
+- 🔭 I’m currently exploring **full stack web development**
 - 👯 I’m looking to collaborate with **other Web developers**
 - 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
 - 💬 Ask me about **HTML, CSS and JavaScript**
-- 📖 I'm reading **Vue.js 3 Cookbook**
+<!-- - 📖 I'm reading **Vue.js 3 Cookbook** -->
 <!-- - 👨‍💻 All of my projects are available at **[https://dipshanadhikari.xyz/projects/](https://dipshanadhikari.xyz/projects/)** -->
 
 ---
