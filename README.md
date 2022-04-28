@@ -7,14 +7,14 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
 
 ## I'm an aspiring  Web Developer !!
 
-<!-- - 🌱 I’m currently learning **Vue.js** -->
+- 🌱 I’m currently learning **MERN stack**
 - 🔭 I’m currently exploring **full stack web development**
 - 👯 I’m looking to collaborate with **other Web developers**
 - 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
 - 💬 Ask me about **HTML, CSS and JavaScript**
-<!-- - 📖 I'm reading **Vue.js 3 Cookbook** -->
-<!-- - 👨‍💻 All of my projects are available at **[https://dipshanadhikari.xyz/projects/](https://dipshanadhikari.xyz/projects/)** -->
+- 📖 I'm reading **How To Code in React.js, By Joe Morgan**
+- 👨‍💻 All of my projects will be soon available at **[https://dipshanadhikari.np/projects/](https://dipshanadhikari.com.np/projects)**
 
 ---
 
@@ -41,7 +41,7 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/vuejs-original.svg" alt="vue" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
