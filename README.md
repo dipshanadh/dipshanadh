@@ -8,7 +8,7 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
 ## I'm an aspiring  Web Developer !!
 
 - 🌱 I’m currently learning **MERN stack**
-- 🔭 I’m currently doing **[https://github.com/dipshanadh/30dayschallenge](30 days challenge | ITSNP 2022 May)**
+- 🔭 I’m currently doing **[30 days challenge | ITSNP 2022 May](https://github.com/dipshanadh/30dayschallenge)**
 - 👯 I’m looking to collaborate with **other Web developers**
 - 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
