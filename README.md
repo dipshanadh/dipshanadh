@@ -57,7 +57,6 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
 ---
 
 ### My projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanilla-javascript-projects&theme=radical&show_icons=true" )](https://github.com/dipshanadh/vanilla-javascript-projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=30dayschallenge&theme=radical&show_icons=true" )](https://github.com/dipshanadh/30dayschallenge)
 
 ---
