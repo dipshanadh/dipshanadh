@@ -51,13 +51,14 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
  ---
 
 ### Languages I use the most :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadh&theme=radical&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadh&theme=radical&show_icons=true)
 <br />
 
 ---
 
 ### My projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=30dayschallenge&theme=radical&show_icons=true" )](https://github.com/dipshanadh/30dayschallenge)
+<br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanilla-javascript-projects&theme=radical&show_icons=true" )](https://github.com/dipshanadh/vanilla-javascript-projects)
 
 ---
