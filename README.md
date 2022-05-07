@@ -13,8 +13,8 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
 - 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
 - 💬 Ask me about **HTML, CSS and JavaScript**
-<!-- - 📖 I'm reading **How To Code in React.js, By Joe Morgan** -->
 - 👨‍💻 All of my projects will be soon available at **[https://dipshanadhikari.np/projects/](https://dipshanadhikari.com.np/projects)**
+<!-- - 📖 I'm reading **How To Code in React.js, By Joe Morgan** -->
 
 ---
 
@@ -51,14 +51,13 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
  ---
 
 ### Languages I use the most :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadh&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadh&theme=radical&show_icons=true&layout=compact)
 <br />
 
 ---
 
 ### My projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=30dayschallenge&theme=radical&show_icons=true" )](https://github.com/dipshanadh/30dayschallenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=vanilla-javascript-projects&theme=radical&show_icons=true" )](https://github.com/dipshanadh/vanilla-javascript-projects)
 
 ---
 
