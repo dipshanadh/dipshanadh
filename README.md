@@ -8,13 +8,13 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
 ## I'm an aspiring  Web Developer !!
 
 - 🌱 I’m currently learning **MERN stack**
-- 🔭 I’m currently exploring **full stack web development**
+- 🔭 I’m currently doing **[https://github.com/dipshanadh/30dayschallenge](30 days challenge | ITSNP 2022 May)**
 - 👯 I’m looking to collaborate with **other Web developers**
 - 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
 - 💬 Ask me about **HTML, CSS and JavaScript**
+- 📫 How to reach me **[dipshanadhikari1234@gmail.com](mailto:dipshanadhikari1234@gmail.com)**
 - 👨‍💻 All of my projects will be soon available at **[https://dipshanadhikari.np/projects/](https://dipshanadhikari.com.np/projects)**
-<!-- - 📖 I'm reading **How To Code in React.js, By Joe Morgan** -->
 
 ---
 
