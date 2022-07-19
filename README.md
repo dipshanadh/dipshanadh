@@ -50,7 +50,7 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
  ---
 
 ### Languages I use the most :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadh&theme=radical&show_icons=true?layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshanadh&theme=radical&show_icons=true&layout=compact)
 <br />
 
 ---
