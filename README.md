@@ -56,6 +56,7 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
 ---
 
 ### My projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=mern-gigs&theme=radical&show_icons=true" )](https://github.com/dipshanadh/mern-gigs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipshanadh&repo=devcamper-api&theme=radical&show_icons=true" )](https://github.com/dipshanadh/devcamper-api)
 
 ---
