@@ -12,7 +12,7 @@ a passionate Web developer | programmer | tech-enthusiast | learner | student fr
 - 👯 I’m looking to collaborate with **other Web developers**
 - 🤔 I’m looking for help with **fullstack web deveopment**
 - 🎸 Would love: To know how to **play guitar**
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **HTML, CSS, SCSS, Tailwind CSS, JavaScript, React, Redux, Node, Express and MongoDB**
 - 📫 How to reach me **[dipshanadhikari1234@gmail.com](mailto:dipshanadhikari1234@gmail.com)**
 - 👨‍💻 All of my projects will be soon available at **[https://dipshanadhikari.np/projects/](https://dipshanadhikari.com.np/projects)**
 
